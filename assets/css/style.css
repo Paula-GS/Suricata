@@ -1,0 +1,76 @@
+body *{
+margin: 0;
+border: 0;
+padding: 0;
+font-family: "Open Sans", sans serif;
+}
+
+/*NAVBAR*/
+.navbar {
+  background-color: #e83e8c;
+  text-decoration: none;
+  }
+.navbar a {
+color: #ffffff;
+}
+
+/*PRODUCTOS*/
+#productos {
+  padding-top: 4rem;
+}
+
+.comprar{
+  padding-left: 3em;
+}
+
+h1 { /*título*/
+  font-weight: bold;
+  font-size: 60px;
+  color: #707070;
+  padding-top: 1.3em;
+  padding-bottom: 1em;
+}
+
+.card-title {
+  color: #373A3C;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #373A3C;
+}
+
+.list-group-item {
+  color: #373A3C;
+}
+
+.card-body a {
+  color: #1C7CD5;
+  text-decoration: none;
+}
+
+/*PAGOS*/
+
+.tarjetas {
+  background-color: #17A2B8;
+  height: 170px; 
+  align-items: center;
+}
+
+.aceptamos {
+  text-align: right;
+  height: 40px;
+  padding-right: 3rem;
+ }
+
+
+/*FOOTER*/
+.suri {
+  background-color: #E83E8C
+}
+
+.suri img {
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
